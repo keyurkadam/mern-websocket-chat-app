@@ -1,0 +1,6 @@
+#create project
+yarn create vite
+
+yarn add tailwindcss potcss autoprefixer
+
+npx tailwindcss init -p
